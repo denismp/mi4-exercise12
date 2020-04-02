@@ -1,0 +1,26 @@
+{
+  "name": "mi4-exercise12",
+  "version": "1.0.0",
+  "description": "Create a Simple Voting System",
+  "main": "dapp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denismp/mi4-exercise12.git"
+  },
+  "author": "Denis Putnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denismp/mi4-exercise12/issues"
+  },
+  "homepage": "https://github.com/denismp/mi4-exercise12#readme",
+  "dependencies": {
+    "solc": "^0.5.8",
+    "web3": "^1.2.6"
+  }
+}
